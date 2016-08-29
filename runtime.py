@@ -60,7 +60,7 @@ def sum_zero_2(numbers):
 
     Put runtime here:
     -----------------
-    [     On^2          ]
+    [     O(n^2)          ]
 
     """
 
@@ -80,7 +80,7 @@ def sum_zero_3(numbers):
 
     Put runtime here:
     -----------------
-    [        On^2       ]
+    [        O(n^2)       ]
 
     """
 
